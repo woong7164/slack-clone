@@ -1,1 +1,1 @@
-# slack-clone
+# slack_clone_study
